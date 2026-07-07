@@ -1,7 +1,7 @@
 # Hi there, I'm Aman Virk! 👋 
 
 <p align="left">
-  <img src="https://komarev.com/ghvc/?username=geekwhocode&color=blue&style=flat-square&label=PROFILE+VISITS" alt="geekwhocode profile visits" />
+  <img src="https://komarev.com/ghpvc/?username=geekwhocode&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="geekwhocode profile views" />
 </p>
 
 I am an **Aspiring AI Engineer** passionate about building production-grade Retrieval-Augmented Generation (RAG) platforms, LLM orchestration frameworks, and agentic AI systems. I specialize in designing high-performance, developer-first backends using Python.
