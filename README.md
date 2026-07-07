@@ -7,7 +7,7 @@
 </p>
 
 
-I am an **Aspiring AI Engineer** passionate about building production-grade Retrieval-Augmented Generation (RAG) platforms, LLM orchestration frameworks, and agentic AI systems. I specialize in designing high-performance, developer-first backends using Python.
+I am an **Aspiring AI Engineer** actively looking for job and is passionate about building production-grade Retrieval-Augmented Generation (RAG) platforms, LLM orchestration frameworks, and agentic AI systems. I specialize in designing high-performance, developer-first backends using Python.
 
 ---
 
