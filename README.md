@@ -1,15 +1,19 @@
 # Hi there, I'm Aman Virk! 👋 
 
+<p align="left">
+  <img src="https://komarev.com/ghvc/?username=geekwhocode&color=blue&style=flat-square&label=PROFILE+VISITS" alt="geekwhocode profile visits" />
+</p>
+
 I am an **Aspiring AI Engineer** passionate about building production-grade Retrieval-Augmented Generation (RAG) platforms, LLM orchestration frameworks, and agentic AI systems. I specialize in designing high-performance, developer-first backends using Python.
 
 ---
 
 ### 🛠️ Core AI Tech Stack
 
-- **Languages:** Python (Primary), SQL, HTML/CSS
-- **AI & LLM Orchestration:** LiteLLM (Gemini, Groq, Ollama), LangChain, LlamaIndex
-- **Vector Search & Embeddings:** ChromaDB, Hugging Face Embeddings (`all-MiniLM-L6-v2`)
-- **Backend Frameworks:** FastAPI, Flask
+- **Languages:** Python (Primary), SQL, Javascript
+- **AI & LLM Orchestration:** LiteLLM (Gemini, Groq, Ollama, OpenAI), LangChain, LlamaIndex
+- **Vector Search & Embeddings:** ChromaDB, Hugging Face Embeddings (`all-MiniLM-L6-v2`), PostgreSQL
+- **Backend Frameworks:** FastAPI, Flask, Django
 - **Data Engineering:** PyMuPDF, Python-docx, Pandas, SQLite
 
 ---
