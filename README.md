@@ -39,8 +39,8 @@ A Python-based backend application demonstrating strong software architecture pa
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geekwhocode&theme=nord_dark" alt="Aman's GitHub Stats" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geekwhocode&theme=nord_dark" alt="Top Languages" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geekwhocode&theme=nord_dark" alt="Aman's GitHub Stats" height="179" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geekwhocode&theme=nord_dark" alt="Top Languages" height="179" />
 </p>
 
 <!-- <p align="left">
