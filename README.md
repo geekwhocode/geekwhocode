@@ -44,7 +44,7 @@ A Python-based backend application demonstrating strong software architecture pa
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geekwhocode&theme=dracula" alt="GitHub Streak" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=geekwhocode&theme=dracula&v=1" alt="GitHub Streak" height="180" />
 </p>
 
 
