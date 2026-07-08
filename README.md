@@ -43,9 +43,9 @@ A Python-based backend application demonstrating strong software architecture pa
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geekwhocode&theme=nord_dark" alt="Top Languages" height="180" />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://streak-stats.demolab.com/?user=geekwhocode&theme=dracula&v=1" alt="GitHub Streak" height="180" />
-</p>
+</p> -->
 
 
 
